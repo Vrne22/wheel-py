@@ -10,6 +10,7 @@ The goal is to completely automate **Hill Climb Racing 2** android app, using YO
 
 ## Installation
 Considering this project started private, and it is in early stages of development, there might be problems, depending on your computer, architecture, or usage case.  
+Using this project might be hard for people without any python programming experience, considering it isn't made as a public software.  
 I strongly encourage, to use an NVIDIA card and also install proprietary drivers, including CUDA.  
 **Not depending on architecure, you will also need to enable *Usb Debugging* on your android phone, then connect it to your computer using proper USB cable.**  
 
