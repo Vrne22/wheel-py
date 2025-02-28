@@ -1,0 +1,7 @@
+numpy
+opencv-python
+supervision
+ultralytics
+pure-python-adb
+scrcpy-client
+matplotlib
