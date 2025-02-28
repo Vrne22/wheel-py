@@ -13,7 +13,7 @@ Considering this project started private, and it is in early stages of developme
 I strongly encourage, to use an NVIDIA card and also install proprietary drivers, including CUDA.
 
 ### Windows
-Install anaconda on [https://www.anaconda.com/download/success](url)
+Install anaconda on [https://www.anaconda.com/download/success](url) 
 Install platform-tools on [https://developer.android.com/tools/releases/platform-tools](url), then add platform-tools to PATH
 Open conda prompt using search bar, or add conda to path **(Not recommended!)**
 ```
