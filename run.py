@@ -48,7 +48,6 @@ class HCR2Helper:
             
             prev_brake = brake
             prev_angle = angle
-            # Add control logic here based on data
             sleep(0.001)
 
     def debug(self):
