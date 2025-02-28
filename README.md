@@ -26,16 +26,16 @@ pip install -r requirements.txt
 ```
 
 ### Linux
-Run nvidia-smi to check if your drivers are properly conigured, if not, install them(Depending on your linux distribution)  
-I'm assuming you have *pyenv*, and *pyenv-venv* installed and configured, if not, check the installation guide depending on your linux distribution  
-Install adb-platform-tools, also check for installation depending on your distribution.  
+Run *nvidia-smi* to check if your drivers are properly conigured, if not, **install them**(Depending on your linux distribution)  
+I'm assuming you have *pyenv*, and *pyenv-venv* installed and configured, if not, **check the installation guides** depending on your linux distribution  
+Install *adb*, also check for installation depending on your distribution.  
 ```
 pyenv install 3.10.13
 pyenv virtualenv 3.10.13 hcr2-wheelpy
 pyenv activate hcr2-wheelpy
 pip install -r requirements.txt
 ```
-If you desire to activate hcr2-wheelpy env every time you go into the project folder, cd into wheel-py, then use:
+If you desire to activate *hcr2-wheelpy* env every time you go into the project folder, *cd into wheel-py*, then use:
 ```
 pyenv local hcr2-wheelpy
 ```
