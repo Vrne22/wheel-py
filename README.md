@@ -10,8 +10,8 @@ The goal is to completely automate **Hill Climb Racing 2** android app, using YO
 
 ## Installation
 Considering this project started private, and it is in early stages of development, there might be problems, depending on your computer, architecture, or usage case.  
-I strongly encourage, to use an NVIDIA card and also install proprietary drivers, including CUDA.
-**Not depending on architecure, you will also need to enable *Usb Debugging* on your android phone, then connect it to your computer using proper USB cable.**
+I strongly encourage, to use an NVIDIA card and also install proprietary drivers, including CUDA.  
+**Not depending on architecure, you will also need to enable *Usb Debugging* on your android phone, then connect it to your computer using proper USB cable.**  
 
 ### Windows
 Install anaconda on [https://www.anaconda.com/download/success](url)  
